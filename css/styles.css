@@ -17,14 +17,14 @@ body{
 }
 
 
-.tag-line, .tag-line-m, .tag-line-motto, .tag-line-contact{
+.tag-line, .tag-line-m, .tag-line-motto, .tag-line-contact, .tag-services, .tag-line-moto{
   display: inline-block;
   position: relative;
   bottom: 100px;
   color: #FFF;
   padding-left: 132px;
 }
-.tag-line-m, .tag-line-motto, .tag-line-contact{
+.tag-line-m, .tag-line-motto, .tag-line-contact, .tag-services, .tag-line-moto{
   padding-left: 202px;
 }
 
@@ -107,6 +107,20 @@ body{
   color: #FFF;
 }
 
+/* services page-services */
+.factory-part, .Hospital-part, .University-part, .Resort-part, .Parlour-part{
+color: #FFF;
+height: 100px;
+width: 1400px;
+padding-left: 50px;
+}
+.Market-part, .School-part, .Restaurant-part, .Trash-part, .Port-part{
+  background-color: #FFF;
+  text-align: right;
+  height: 100px;
+  width: 1365px;
+  padding-right: 50px;
+}
 
 
 
